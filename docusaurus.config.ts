@@ -43,7 +43,8 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+              // Remove this to remove the "edit this page" links.
+              routeBasePath: '/docs', // This makes docs the homepage
         },
         blog: false,
         theme: {
