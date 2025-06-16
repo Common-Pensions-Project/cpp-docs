@@ -21,7 +21,7 @@
     "permalink": "/docs/tutorial-extras/manage-docs-versions"
   },
   "next": {
-    "title": "API Integration Guide",
-    "permalink": "/docs/api-integration-guide"
+    "title": "ADR-0001: Example Decision",
+    "permalink": "/docs/adr/ADR-0001-example"
   }
 }

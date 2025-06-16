@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\build",
+    "\\docs"
   ],
-  "SelectedNode": "\\C:\\Users\\RobMann\\Source\\Repos\\cpp-docs3",
+  "SelectedNode": "\\docusaurus.config.ts",
   "PreviewInSolutionExplorer": false
 }

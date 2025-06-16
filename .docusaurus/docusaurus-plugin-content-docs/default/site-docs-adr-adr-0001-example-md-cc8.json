@@ -1,0 +1,24 @@
+{
+  "id": "adr/ADR-0001-example",
+  "title": "ADR-0001: Example Decision",
+  "description": "Context",
+  "source": "@site/docs/adr/ADR-0001-example.md",
+  "sourceDirName": "adr",
+  "slug": "/adr/ADR-0001-example",
+  "permalink": "/docs/adr/ADR-0001-example",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/adr/ADR-0001-example.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "ADR 0001: Schema Governance",
+    "permalink": "/docs/adr/ADR-0001-schema-governance"
+  }
+}

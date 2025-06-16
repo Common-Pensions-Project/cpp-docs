@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ADR 0001: Schema Governance",
-    "permalink": "/docs/decisions/ADR-0001-schema-governance"
+    "title": "Authentication Flow",
+    "permalink": "/docs/auth-flow"
   },
   "next": {
     "title": "Common Pensions Project Documentation",
