@@ -1,0 +1,20 @@
+{
+  "id": "system-architecture",
+  "title": "System Architecture",
+  "description": "An overview of the core components and interactions within Common Pensions Project at an enterprise level.",
+  "source": "@site/docs/system-architecture.md",
+  "sourceDirName": ".",
+  "slug": "/system-architecture",
+  "permalink": "/docs/system-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/system-architecture.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Onboarding for Developers",
+    "permalink": "/docs/onboarding/for-developers"
+  }
+}
