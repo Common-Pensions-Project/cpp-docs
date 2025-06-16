@@ -1,0 +1,24 @@
+{
+  "id": "onboarding/for-developers",
+  "title": "Onboarding for Developers",
+  "description": "Step-by-step setup instructions, repo structure, and contribution flow.",
+  "source": "@site/docs/onboarding/for-developers.md",
+  "sourceDirName": "onboarding",
+  "slug": "/onboarding/for-developers",
+  "permalink": "/docs/onboarding/for-developers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/onboarding/for-developers.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Onboarding for Business Analysts",
+    "permalink": "/docs/onboarding/for-business-analysts"
+  },
+  "next": {
+    "title": "System Architecture",
+    "permalink": "/docs/system-architecture"
+  }
+}

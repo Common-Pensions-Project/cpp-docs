@@ -1,0 +1,24 @@
+{
+  "id": "auth-flow",
+  "title": "Authentication Flow",
+  "description": "This document explains the OAuth2-based authentication used in the Common Pensions APIs.",
+  "source": "@site/docs/auth-flow.md",
+  "sourceDirName": ".",
+  "slug": "/auth-flow",
+  "permalink": "/docs/auth-flow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/auth-flow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Integration Guide",
+    "permalink": "/docs/api-integration-guide"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/docs/glossary"
+  }
+}

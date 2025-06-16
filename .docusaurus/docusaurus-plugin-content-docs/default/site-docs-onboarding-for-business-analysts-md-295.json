@@ -1,0 +1,24 @@
+{
+  "id": "onboarding/for-business-analysts",
+  "title": "Onboarding for Business Analysts",
+  "description": "Understanding data models, API specs, and how to give input.",
+  "source": "@site/docs/onboarding/for-business-analysts.md",
+  "sourceDirName": "onboarding",
+  "slug": "/onboarding/for-business-analysts",
+  "permalink": "/docs/onboarding/for-business-analysts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/onboarding/for-business-analysts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Common Pensions Project Documentation",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Onboarding for Developers",
+    "permalink": "/docs/onboarding/for-developers"
+  }
+}
